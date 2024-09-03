@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫: I'm Pursuing B.E CSE at JEC"24<br>👨‍💼:  Front-End-Developer & Web Designer <br>📫 Ask me about anything, Excited to help with you!...<br>💻 Connect with me https://www.linkedin.com/in/abhishek-p-dev/<br>📫 How to reach me shek79000@gmail.com<br>🐦 Let's talk on https://twitter.com/shek79000
+🏫: I'm Bachelor of Degree Computer Science Engg. (Fresher) at JEC"24<br>👨‍💼:  Front-End-Developer & Web Designer <br>📫 Ask me about anything, Excited to help with you!...<br>💻 Connect with me https://www.linkedin.com/in/abhishek-p-dev/<br>📫 How to reach me shek79000@gmail.com<br>🐦 Let's talk on https://twitter.com/shek79000
 
 
 ## 🌐 Socials:
