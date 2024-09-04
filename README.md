@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫: I'm Bachelor of Degree Computer Science Engg. (Fresher) at JEC"24<br>👨‍💼:  Front-End-Developer & Web Designer <br>📫 Ask me about anything, Excited to help with you!...<br>💻 Connect with me https://www.linkedin.com/in/abhishek-p-dev/<br>📫 How to reach me shek79000@gmail.com<br>🐦 Let's talk on https://twitter.com/shek79000
+🏫:I am Abhishek, a recent graduate with a B.E in Computer Science Engineering from Jaya Engineering College. My passion for web development has driven me to become a full-stack developer,<br>👨‍💼:  Front-End-Developer & Web Designer <br>📫 Ask me about anything, Excited to help with you!...<br>💻 Connect with me https://www.linkedin.com/in/abhishek-p-dev/<br>📫 How to reach me shek79000@gmail.com<br>🐦 Let's talk on https://twitter.com/shek79000
 
 
 ## 🌐 Socials:
